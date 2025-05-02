@@ -182,3 +182,10 @@
     })
 
   })
+
+  /*Para Adicionar no Git pelo terminal:
+git branch	(entra na main)
+git status	(verifica status atual de commits)
+git add . 	(add modificações)
+git commit -m 'Create cypress project' (dá nome ao commit)
+git push origin (faz o push para o repositório) */
